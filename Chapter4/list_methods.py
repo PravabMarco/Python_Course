@@ -9,7 +9,7 @@ friends = ["Prabhav", "Satyarth", "Anshul", "Shivam"]
 #friends.insert(2, "Marco") # inserts an element at a specific index
 #friends.pop(2) # removes the element at index 2 from the list
 #friends.remove("Satyarth") # removes the first occurrence of the element from the list
-# git statusfriends.clear() # removes all the elements from the list
+#friends.clear() # removes all the elements from the list
 
 print(friends)
 

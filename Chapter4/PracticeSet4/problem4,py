@@ -1,0 +1,4 @@
+#program to create a list of 4 numbers and find their sum
+sumList = [2, 4, 6, 8]
+total = sum(sumList)
+print("The sum of the list is:", total)
